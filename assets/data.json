@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "item_01",
+      "judul": "National Gallery",
+      "kategori": "Museum",
+      "lokasi": "Jakarta Pusat",
+      "deskripsi": "Museum seni rupa modern dan kontemporer dengan desain arsitektur kolonial yang dipadukan dengan ruang pameran minimalis. Menjadi pusat ekshibisi karya seni rupa nasional maupun internasional.",
+      "gambar": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?auto=format&fit=crop&w=800&q=80",
+      "rating": 4.8
+    },
+    {
+      "id": "item_02",
+      "judul": "Taman Literasi",
+      "kategori": "Ruang Publik",
+      "lokasi": "Jakarta Selatan",
+      "deskripsi": "Ruang terbuka hijau yang dirancang khusus untuk mewadahi kegiatan literasi, diskusi, dan bersantai dengan amphitheater berdesain kontemporer.",
+      "gambar": "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?auto=format&fit=crop&w=800&q=80",
+      "rating": 4.6
+    },
+    {
+      "id": "item_03",
+      "judul": "Perpusnas RI",
+      "kategori": "Edukasi",
+      "lokasi": "Jakarta Pusat",
+      "deskripsi": "Gedung perpustakaan tertinggi di dunia dengan fasilitas modern, ruang baca yang luas, dan koleksi literatur yang sangat komprehensif.",
+      "gambar": "https://images.unsplash.com/photo-1568667256549-094345857637?auto=format&fit=crop&w=800&q=80",
+      "rating": 4.9
+    },
+    {
+      "id": "item_04",
+      "judul": "Taman Suropati",
+      "kategori": "Taman",
+      "lokasi": "Menteng, Jakarta",
+      "deskripsi": "Taman bersejarah dengan pepohonan rindang, bangku taman klasik, dan patung-patung monumen ASEAN. Sangat cocok untuk bersantai sore hari.",
+      "gambar": "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?auto=format&fit=crop&w=800&q=80",
+      "rating": 4.5
+    },
+    {
+      "id": "item_05",
+      "judul": "M Bloc Space",
+      "kategori": "Kafe",
+      "lokasi": "Blok M, Jakarta",
+      "deskripsi": "Kawasan kreatif yang mengubah deretan rumah tua peninggalan Peruri menjadi kafe, toko musik, dan ruang pertunjukan seni dengan nuansa retro.",
+      "gambar": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+      "rating": 4.7
+    }
+  ]
+}
